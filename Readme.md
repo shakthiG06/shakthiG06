@@ -28,26 +28,6 @@ My goal is to grow from a student and developer into an engineer capable of buil
 
 ---
 
-## 🚀 What I'm Interested In
-
-### 🤖 Artificial Intelligence
-
-Exploring AI and machine learning concepts and building applications around intelligent systems.
-
-### 📊 Data Science
-
-Interested in working with data, extracting insights, and developing data-driven solutions.
-
-### 💻 Full Stack Development
-
-Building modern web applications and connecting frontend experiences with backend systems.
-
-### 🧠 AI-Powered Applications
-
-Combining AI with software development to create useful and practical applications.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -62,18 +42,6 @@ Combining AI with software development to create useful and practical applicatio
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-## 🎯 Career Interests
-
-I'm currently exploring opportunities and learning paths related to:
-
-* 🤖 Artificial Intelligence Engineering
-* 📊 Data Science & Analytics
-* 💻 Software / Full Stack Development
-* 🧠 AI & Data Science
-* 🚀 Technology & Innovation
 
 ---
 
