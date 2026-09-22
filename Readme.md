@@ -152,19 +152,17 @@ My goal is to grow from a student and developer into an engineer capable of buil
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shakthiG06&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shakthiG06&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakthiG06&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakthiG06&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 <div align="center">
 
 ## My Goal
