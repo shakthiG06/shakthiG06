@@ -1,184 +1,173 @@
+# 👋 Hey, I'm Shakthi G!
 
-<div align="center">
-
-# Shakthi G
-
-### 3rd Year Artificial Intelligence & Data Science Student
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-00CFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-E11D48?style=for-the-badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications" />
 </p>
 
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-00CFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakthiG06&label=Profile%20Views&color=00CFFF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>🤖 AI • 📊 DATA • 💻 CODE • 🚀 BUILD</b>
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-> **I’m a 3rd-year AI & Data Science student passionate about Artificial Intelligence, Data Science, and Full Stack Development. I enjoy turning ideas into intelligent applications and practical software solutions.**
+I'm a **3rd-year Artificial Intelligence & Data Science student** interested in building practical applications at the intersection of **AI, data, and software development**.
 
-</div>
+I enjoy learning new technologies, solving programming problems, and turning ideas into working applications.
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science & Data Analytics
+* 🧠 Deep Learning
+* 🌐 Full Stack Web Development
+* 🐍 Python Development
+* ⚛️ React.js
 
 ---
 
-## About Me
+## 🐍 Contribution Activity
 
-I'm currently a **3rd-year student specializing in Artificial Intelligence & Data Science**, exploring the intersection of **AI, data, and software development**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
-I'm continuously learning and building projects to strengthen my skills in:
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask" />
+</p>
+
+### 🤖 AI / Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,git,github,docker,vscode" />
+</p>
+
+---
+
+## 📊 Areas I'm Working With
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
 
-<br>
+### AI / ML
 
-Artificial Intelligence & Machine Learning
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/pandas/150458" width="45"/>
-
-<br>
-
-Data Science & Data Analytics
+Machine Learning, Deep Learning, Computer Vision & AI applications
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="50"/>
 
-<br>
+### Data Science
 
-Deep Learning
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-
-<br>
-
-Full Stack Web Development
+Data analysis, preprocessing, visualization & data-driven applications
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
 
-<br>
+### Full Stack
 
-Python Development
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-
-<br>
-
-React.js
+Frontend interfaces, backend APIs and database-driven applications
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-My goal is to grow from a student and developer into an engineer capable of building **real-world intelligent applications**.
+## 🚀 What I Build
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🤖 AI Applications       → Intelligent Systems    │
+│   📊 Data Projects         → Data-driven Solutions  │
+│   🌐 Web Applications      → Full Stack Platforms   │
+│   🧠 ML Projects           → Predictive Models      │
+│   ⚙️ Developer Projects    → Practical Tools       │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+I like combining **AI + Software Development** to build applications that solve practical problems.
 
 ---
 
-## Tech Stack
-
-### Languages & Frameworks
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-</p>
-
-### Tools & Development
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/shakthiG06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/shakthi-g-6633ab315/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/ShakthiGuru/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:shakthi6731@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📈 GitHub Activity
+## 🧩 Featured Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakthiG06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,tensorflow,pytorch,mongodb,postgresql,docker,git,github" />
 </p>
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakthiG06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-<div align="center">
 
-## My Goal
+## 🔗 Connect With Me
 
-> **Learn continuously. Build meaningful projects. Solve real problems. Grow into a skilled AI & Software Engineer.**
+<p align="center">
 
-</div>
+<a href="https://github.com/shakthiG06">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shakthi-g-6633ab315/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShakthiGuru/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:shakthi6731@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=100&section=footer"/>
+</p>
 
-### AI • DATA • CODE • BUILD
-
-<br>
-
-<i>Thanks for visiting my profile!</i>
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile! 👋</i>
+</p>
